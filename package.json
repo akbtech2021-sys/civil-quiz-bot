@@ -8,6 +8,7 @@
   },
   "private": true,
   "dependencies": {
-    "node-telegram-bot-api": "^0.67.0"
+    "express": "^4.22.1",
+    "telegraf": "^4.16.3"
   }
 }
