@@ -1,0 +1,13 @@
+{
+  "name": "TELEGRAM BOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "node-telegram-bot-api": "^0.67.0"
+  }
+}
